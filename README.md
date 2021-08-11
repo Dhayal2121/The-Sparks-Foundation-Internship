@@ -1,0 +1,2 @@
+# The-Sparks-Foundation-Internship
+This is one of the tasks given to us in the internship we are doing with The Sparks Foundation.  Task 1 - To predict the stock market with given dataset, we will predict the stock and represent it visually.  Task 1 dataset-https://docs.google.com/spreadsheets/d/e/2PACX-1vSKB6fYfs8yLr1m4bRPhZ5FHgDH9DjP0aHHxQd1LMbdHQLShp9nY0bIjxe9RLz6nU8B6T_DkHgEXYmU/pub?gid=347949668&amp;single=true&amp;output=csv
